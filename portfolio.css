@@ -22,7 +22,7 @@ color:  orangered;
 font-size: 20px;
 font-family: sans-serif;
 padding: 0px;
-display: inline-flex;
+display: inline-flexbox;
 }
 .div2 ul
 {
