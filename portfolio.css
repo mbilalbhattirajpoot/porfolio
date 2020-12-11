@@ -8,8 +8,7 @@ body
     height: 50%;
     padding: 50px;
     float: left;
-    background-image: url('download.jpg');
-    alt:picture;
+
 }
 .div2
 {
@@ -20,7 +19,7 @@ body
 }
 .div2 ul li a
 {
-background-color:  orangered;
+color:  orangered;
 font-size: 10px;
 font-family: sans-serif;
 text-size-adjust: 10px;
