@@ -1,6 +1,6 @@
 body
 {
-    background-image: url('13.jpg');
+    background-image: url('12.jpg');
 }
 .div1
 {
@@ -17,7 +17,7 @@ body
     width: 50%;
     height: 50%;
 }
-.div2 ul li a
+ul li a
 {
 color:  orangered;
 font-size: 50px;
