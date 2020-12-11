@@ -24,6 +24,7 @@ font-family: sans-serif;
 padding: 0px;
 display: inline-flexbox;
 border: solid rgb(209, 133, 19);
+padding-bottom: 20px;
 }
 .div2 ul
 {
