@@ -12,7 +12,7 @@ body
 .div2
 {
     float: right;
-    text-align:center;
+    text-align: inherit;
     width: 50%;
     height: 50%;
 }
