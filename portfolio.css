@@ -35,3 +35,17 @@ padding-bottom: 20px;
     color: rgb(50, 80, 109);
     padding: 5px;
 }
+.div3
+{
+    float: left;
+    color: limegreen
+    
+}
+.div3 ul li 
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 0px;
+    display: inline-flexbox;
+    border: rgb(85, 175, 85) solid 2px;
+}
