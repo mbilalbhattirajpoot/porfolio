@@ -11,7 +11,7 @@ body
 }
 .div2
 {
-    float: left;
+    float: right;
     text-align: inherit;
     width: 50%;
     height: 50%;
@@ -38,8 +38,8 @@ padding-bottom: 20px;
 .div3
 {
     float: left;
-    color: limegreen;
-    padding-left: 20px;
+    color: limegreen
+    
 }
 .div3 ul li 
 {
@@ -52,5 +52,4 @@ padding-bottom: 20px;
 .div3 ul li i
 {
     color: mediumslateblue;
-    padding: 5px;
 }
