@@ -46,11 +46,13 @@ padding-bottom: 20px;
 {
     font-size: 20px;
     font-family: sans-serif;
-    padding: 0px;
+    padding-right: 5px;
     display: inline-flexbox;
     border: rgb(85, 175, 85) solid 2px;
 }
 .div3 ul li i
 {
     color: mediumslateblue;
+    padding: 5px;
+
 }
