@@ -49,3 +49,8 @@ padding-bottom: 20px;
     display: inline-flexbox;
     border: rgb(85, 175, 85) solid 2px;
 }
+.div3 ul li i
+{
+    color: mediumslateblue;
+    padding: 5px;
+}
