@@ -30,3 +30,8 @@ padding-bottom: 20px;
 {
     display: inline;
 }
+.div2 ul li i
+{
+    color: darkslategray;
+    margin: 5px;
+}
