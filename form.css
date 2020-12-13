@@ -65,11 +65,13 @@ span.psw{
     float: none;
 }
 .cancelbtn{
-    width: 100%;
+    width: 50%;
+    border-radius: 10px;
 }
 }
 .dontbtn
 {
-    width: 100%;
+    width: 50%;
+    border-radius: 10px;
     background-color: rgb(90, 100, 247);
 }
