@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="form.css">
+    </head>
+    <body>
+    <h2>Registration Form :-</h2>
+    <form action="/action_page.php" method="POST">
+        <div class="container">
+            <label for="first name">
+                <b>First Name</b>
+            </label>
+            <input type="text" placeholder="enter firstname" name="fname" required>
+            <label for="last name">
+                <b>Last Name</b>
+            </label>
+            <input type="text" placeholder="enter lastname" name="lname" required>
+            <label for="psw" >
+                <b>PassWord</b>
+            </label>
+            <input type="password" placeholder="enter password" name="psw" required>
+            <label for="psw" >
+                <b>PassWord</b>
+            </label>
+            <input type="password" placeholder="enter password agin" name="cpsw" required>
+            <button type="submit" >Login</button>
+            <label>
+                <input type="checkbox" checked="checked" name="remember">
+                Remember me
+            </label>
+        </div>
+    </form>
+    </body>
+</html>
