@@ -36,12 +36,11 @@ opacity: 0.8;
 }
 .cancelbtn
 {
-    width:15%;
+    width: 20%;
     float: none;
     padding: 10px 18px;
     border-radius: 10px;
     background-color: #f44336;
-    padding-right: 5px;
 }
 .imgcontainer
 {
